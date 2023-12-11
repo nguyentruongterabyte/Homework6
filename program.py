@@ -1,3 +1,8 @@
+"""
+    MSSV     : N20DCCN083
+    Họ và tên: Nguyễn Thái Trưởng
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
